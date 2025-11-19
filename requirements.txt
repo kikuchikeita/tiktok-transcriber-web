@@ -1,5 +1,4 @@
-fastapi
-uvicorn
+flask
 yt-dlp
-openai-whisper
-python-multipart
+openai
+python-dotenv
